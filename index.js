@@ -17,7 +17,7 @@ async function generatePost() {
         verticalAlign: 'center',
         fontFamily: 'Glacial Indifference',
         margin: 20,
-        fontPath: './fonts/Glacialindifference.otf',
+        fontPath: './fonts/GlacialIndifference.otf',
         fontSize: 60,
         lineHeight: 100
     });
